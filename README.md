@@ -10,7 +10,7 @@ Criar um game de plataforma 2D, pareceido com o mario do Super Nintendo.
   * Pular
   * Morrer
 
-- Plataformas que se movimentão sozinhas, como nesse exmplo[Exemplo](http://imgur.com/TlhHO)
+- Plataformas que se movimentão sozinhas, como nesse [Exemplo](http://imgur.com/TlhHO)
 - Plataforma onde o player irá se movimentar, andar e pular livremente.
 
 ### **Objetivo do Game** ###
